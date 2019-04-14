@@ -1,1 +1,3 @@
-# prueba node repositorio
+- Descomprimir el Zip.
+- Ejecutar "node app.js"
+- Despliegue en "localhost:3000"
